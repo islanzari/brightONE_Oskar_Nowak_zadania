@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1526243582 source:c:\users\user\desktop\zadania\zadaniepierwsze\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<bitset>
+	<vector>
+
+1526245202 source:c:\users\user\desktop\zadaniepierwsze\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<bitset>
+	<vector>
+
